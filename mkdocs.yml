@@ -1,0 +1,27 @@
+site_name: Saajan Rajak
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Recent: recent.md
+  - Deep Learning:
+      - Overview: dl/index.md
+      - Basics: dl/basics/index.md
+      - Computer Vision: dl/cv/index.md
+  - Deep Learning CV:
+      - Overview: dl_cv/index.md
+  - Machine Learning:
+      - Overview: ml/index.md
+  - Notes:
+      - Overview: notes/index.md
+  - About: about.md
+
+
+
+
+
